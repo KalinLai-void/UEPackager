@@ -1,0 +1,25 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Generated distributions and archives
+/Releases/
+/Packages/
+/UEPackager.exe
+/UE-Packaging-Automation.exe
+
+# Local settings and Windows launcher shortcut
+/Settings.json
+/Launch GUI.lnk
+
+# IDE user state
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
