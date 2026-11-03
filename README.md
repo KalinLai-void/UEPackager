@@ -6,7 +6,7 @@ UEPackager is a desktop tool for packaging Unreal Engine projects for multiple t
 
 ## Download
 
-Open this repository's **Releases** page and download the archive for the computer that will run UEPackager:
+Open this repository's [**Releases** page](https://github.com/KalinLai-void/UEPackager/releases) and download the archive for the computer that will run UEPackager:
 
 | Operating system | Architecture | Release asset |
 | --- | --- | --- |
